@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=com.seleniumhq.selenium -DartifactId=selenium-api -Dpackaging=jar -Dversion=1.141.59 -Dfile=C:\Users\MGlazunov\Desktop\selenium-java-3.141.59.jar -DgeneratePom=true
