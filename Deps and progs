@@ -1,9 +1,14 @@
+Notepad++
+https://notepad-plus-plus.org/repository/7.x/7.6.4/npp.7.6.4.Installer.exe
+
 org.apache.maven.plugins:maven-compiler-plugin:3.6.1
 http://central.maven.org/maven2/org/apache/maven/maven-plugin-api/3.6.0/maven-plugin-api-3.6.0.jar
 
 Chrome Driver в зависимости от версии которая установлена на машине
 http://chromedriver.chromium.org/downloads
 
+Allure commandline
+https://bintray.com/qameta/generic/download_file?file_path=io%2Fqameta%2Fallure%2Fallure%2F2.0-BETA6%2Fallure-2.0-BETA6.zip
 
 Maven Artifact
 http://central.maven.org/maven2/org/apache/maven/maven-artifact/3.6.0/maven-artifact-3.6.0.jar
