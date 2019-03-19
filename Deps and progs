@@ -8,7 +8,7 @@ Chrome Driver в зависимости от версии которая уст�
 http://chromedriver.chromium.org/downloads
 
 Allure commandline
-https://bintray.com/qameta/generic/download_file?file_path=io%2Fqameta%2Fallure%2Fallure%2F2.0-BETA6%2Fallure-2.0-BETA6.zip
+https://dl.bintray.com/qameta/maven/io/qameta/allure/allure-commandline/2.10.0/allure-commandline-2.10.0.zip
 
 Maven Artifact
 http://central.maven.org/maven2/org/apache/maven/maven-artifact/3.6.0/maven-artifact-3.6.0.jar
