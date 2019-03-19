@@ -237,3 +237,11 @@ Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-util
 Downloaded: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar (384 KB at 156.8 KB/sec)
 Downloaded: https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.6/commons-validator-1.6.jar (182 KB at 73.9 KB/sec)
 Downloaded: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar (229 KB at 79.4 KB/sec)
+
+
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom (4 KB at 3.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom (3 KB at 2.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar (83 KB at 248.7 KB/sec)
